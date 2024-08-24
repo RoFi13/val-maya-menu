@@ -1,2 +1,1 @@
-# val-maya-menu
-Valkyrie pipeline Maya menu.
+# ASSET MANAGER
