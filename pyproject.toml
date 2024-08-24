@@ -1,6 +1,6 @@
 # Setup following https://setuptools.pypa.io/en/latest/userguide/quickstart.html
 [project]
-name = "val_asset_manager"
+name = "val_maya_menu"
 dynamic = ["version", "readme"]
 
 [build-system]
