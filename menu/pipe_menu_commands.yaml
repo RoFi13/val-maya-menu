@@ -26,6 +26,10 @@
     - label:    Version Up File
       command:  from val_util_tools.util import util_tools as ut;from importlib import reload;reload(ut);ut.version_up_file()
       lang:     python
+  - Scene Cleanup:
+    - label:    Delete Unknown Nodes
+      command:  from val_util_tools.util import util_tools as ut;from importlib import reload;reload(ut);ut.delete_unknown_nodes()
+      lang:     python
 
   - Selection:
     - label:    Select First Children
